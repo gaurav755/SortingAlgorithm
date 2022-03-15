@@ -13,7 +13,7 @@ public class InsertionSort {
 	            array[i+1] = key;  
 	        }  
 	}
-
+	//Main method
 	public static void main(String[] args) {
 		int[] arr = {3,5,1,7,8,4};
 		System.out.println("Before Swapping");
